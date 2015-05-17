@@ -1,0 +1,16 @@
+# Jekyll
+_site
+
+# Vagrant
+.vagrant/
+# bootstrap.sh
+# Vagrantfile
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Cache files for Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache

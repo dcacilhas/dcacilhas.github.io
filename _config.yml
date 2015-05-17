@@ -1,0 +1,41 @@
+# Dependencies
+markdown:       redcarpet
+highlighter:    pygments
+
+# Permalinks
+permalink:              pretty
+# relative_permalinks:    true
+
+# Setup
+title:          David Cacilhas
+tagline:        ''
+description:    ''
+# url:            http://hyde.getpoole.com
+baseurl:        /
+include:        ['_pages']
+
+author:
+    name:       'David Cacilhas'
+
+paginate:       5
+
+# Homepage repo
+repo:           https://github.com/dcacilhas/dcacilhas.github.io/
+
+# Social media icons
+social-icons:
+-   title:  Github
+    url:    https://github.com/dcacilhas/
+    class:  fa-github
+-   title:  Bitbucket
+    url:    https://bitbucket.org/dcacilhas
+    class:  fa-bitbucket
+-   title:  Twitter
+    url:    https://twitter.com/HiTek_
+    class:  my-fa-twitter
+-   title:  LinkedIn
+    url:    https://www.linkedin.com/in/dcacilhas
+    class:  my-fa-linkedin
+-   title:  TwitchTV
+    url:    http://www.twitch.tv/itsmetek_
+    class: fa-twitch
