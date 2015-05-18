@@ -10,7 +10,7 @@ permalink:              pretty
 title:          David Cacilhas
 # tagline:        ''
 # description:    ''
-# url:            http://hyde.getpoole.com
+url:            http://dcacilhas.github.io
 baseurl:        /
 include:        ['_pages']
 
@@ -39,3 +39,8 @@ social-icons:
 -   title:  TwitchTV
     url:    http://www.twitch.tv/itsmetek_
     class: fa-twitch
+
+#Sitemap
+gems:
+    - jekyll-sitemap
+    
